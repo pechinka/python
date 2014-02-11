@@ -1,1 +1,1 @@
-current accumulated connection time is: 1708 hours
+accumulated connection time is: 1708 hours
